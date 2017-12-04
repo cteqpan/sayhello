@@ -1,0 +1,22 @@
+{
+  "name": "sayhello",
+  "version": "0.0.1",
+  "description": "A Hello World HTTP server",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cteqpan/sayhello"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "stefan.cokovski@ya.ru",
+  "license": "ISC",
+  "devDependencies": { "test": ">=0.6.0" }
+}
